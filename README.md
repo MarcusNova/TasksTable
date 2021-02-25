@@ -1,6 +1,8 @@
 # Project using React Hooks and Local Storage
 This is an example project using React and React Hooks instead of Redux for stage management and basic local
-storage for save the task from the board
+storage for save the task from the board.
+
+You can visit the site here: https://nova-booklist.netlify.app/
 
 
 ## Available Scripts
